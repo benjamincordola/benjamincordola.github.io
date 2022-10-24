@@ -2,4 +2,4 @@
 I am a sophomore at Middlebury College majoring in Geography.
 
 
-<img src="IMG_0649.HEIC" width="151.2" height="201.6">
+<img src="final_GDMBR.pdf" width="151.2" height="201.6">
