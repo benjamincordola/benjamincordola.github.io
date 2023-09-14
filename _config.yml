@@ -1,3 +1,4 @@
+#new comment
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -58,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Benjamin Cordola"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
