@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Benjamin Cordola"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Image.jpg"
   bio    : "A home for blog posts and project updates related to OpenGIS."
   links:
     - label: "Cartography Portfolio"
