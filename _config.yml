@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Benjamin Cordola"
   avatar : "/assets/images/Image.jpg"
-  bio    : "A home for blog posts and project updates related to OpenGIS."
+  bio    : "I'm a student at Middlebury College in Vermont studying Geography, Russian, and Spanish."
   links:
     - label: "Cartography Portfolio"
       icon: "fas fa-fw fa-link"
