@@ -20,6 +20,6 @@ Open Source methods are the future for geography and GIS, and should be embraced
 Open Source does not come without its difficulties, however. Because software is evolving all the time and not normally being released in clean stages, newer versions could pose problems with backwards compatibility. In terms of making the data used public, which is the other side of the Open Source coin, there are many situations in which privacy or legal reasons would prevent data from just being appended at the end of a study. One aspect mentioned in Rey's _"Show me the code: spatial analysis and open source"_ is the developer-centric nature of open source projects as a negative. He says this leads to a lack of accessibilty, in that only those with adequate programming skills can participate in the development of the software (Rey, 195). I don't think this is a realistic negative of any open source software or discipline, as there can be steep learning curves in any discipline, and learning the craft is just a prerequisite of being involved in development of the tools. In the meantime, one can use the software "out of the box," guided by documentation written by the developers. 
 
 NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National 
-      Academies Press. DOI: 10.17226/25303
+-----Academies Press. DOI: 10.17226/25303
 Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of 
-      Geographical Systems 11 (2):191–207. http://dx.doi.org/10.1007/s10109-009-0086-8
+-----Geographical Systems 11 (2):191–207. http://dx.doi.org/10.1007/s10109-009-0086-8
