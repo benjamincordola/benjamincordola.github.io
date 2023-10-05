@@ -1,0 +1,29 @@
+---
+title: "Geography's Reproducibility Crisis"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - GIS
+  - Reproducibility
+---
+# Takeaways from Reproducing Chakraborty (2021)
+
+<!--   What have you learned from doing a reproduction study?
+    Has the reproduction deviated from the original study in any way?
+    If so, are the deviations improvements or errors?
+    Are there opportunities to further improve the study’s research design, reproducibility, or reproducibility for teaching purposes?
+    Are there opportunities to design meaningful replication studies to further test any theories established by this study?
+    Keep in mind, a blog post is for highlights : aim for a post to be a short and impactful advertisement for the full study… no more than two paragraphs.
+
+Link to your full study from the blog post-->
+
+Reproducing this study has highlighted the multitude of decisions made by researchers behind the scenes for any given study that make reproduction difficult or ambiguous, even when the researcher does their best to document their methods. 
+
+One improvement to the reproduction of the study that I would love to implement would be to the map visualizing the SpatialEpi Kulldorff COVID-19 Clusters. The current map does a great job of showing how the spatial clusters are formed, and some problems that this may have posed in the study. But I would also be interested to see which "other parts of cluster" belong to which "center of cluster," by associating each by color. I looked into the data, and unless I modify the spatial scan to keep track of cluster ID number, I do not think there is an easy solution to make the map I am thinking of.
+
+One change I did make was in the color ramp for the map showing Local Relative Risk (RR) Class for each county. Because they are categorized in 6 groups, from low risk to high risk, I thought a diverging color palette would best convey the information. I opted for the RdYlGn color ramp, with green representing the least amount of RR and red the most. This is a small change, but now the few counties at high risk stand out from the map more than they did previously. 
+
+
+
+Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI: 10.1016/j.dhjo.2020.101007.
