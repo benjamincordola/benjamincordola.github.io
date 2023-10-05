@@ -1,5 +1,5 @@
 ---
-title: "Geography's Reproducibility Crisis"
+title: "Reproducing Chakraborty (2021)"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
