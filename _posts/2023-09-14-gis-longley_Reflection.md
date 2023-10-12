@@ -10,11 +10,13 @@ tags:
 ---
 # Uncertainty in Geographic Research
 
-I am particularly interested in your interpretation and reaction to figure 6.1 in Longley et al (2008) with regards to the three questions/prompts below:
+<!--I am particularly interested in your interpretation and reaction to figure 6.1 in Longley et al (2008) with regards to the three questions/prompts below:
 
     Do you have first-hand knowledge or experience with uncertainty in spatial/geographic research?
     What responsibilities do geographers have with regards to uncertainty in research?
     What strategies might geographers use to fulfill those responsibilities?
+
+-->
 
 As a member of a geography research team, I have been a part of a conversation regarding decisions and methods to deal with uncertainty. Due to time pressure and poor organization and planning, do-files are often forgotten and in-between steps are not saved properly in QGIS. These poor documentaiton and black-box workflows are avoided if possible, but often end up happening. In this situation, While results may be produced, any reworking or running statistical tests on any of the data will require, in most cases, starting basically from scratch. 
 
