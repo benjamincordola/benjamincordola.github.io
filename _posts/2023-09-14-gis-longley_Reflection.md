@@ -18,6 +18,7 @@ tags:
 
 -->
 ![Longley's Conception of Uncertainty](assets/images/longley_uncertainty.png)
+*Figure 6.1* Chapter 6, “Uncertainty,” by Longley et al. (2008)
 
 As a member of a geography research team, I have been a part of a conversation regarding decisions and methods to deal with uncertainty. Due to time pressure and poor organization and planning, do-files are often forgotten and in-between steps are not saved properly in QGIS. These poor documentation and black-box workflows are avoided if possible, but often end up happening. In this situation, while results may be produced, any reworking or running statistical tests on any of the data will require, in most cases, starting basically from scratch. 
 
