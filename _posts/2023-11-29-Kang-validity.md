@@ -2,7 +2,7 @@
 title: "Kang Threats to Validity"
 excerpt_separator: "<!--more-->"
 categories:
-  - Analysis
+  - Blog
 tags:
   - GIS
   - Science
