@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty and Responsibility in Geographic Research"
+title: "Provenance, Error, and Uncertainty"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog

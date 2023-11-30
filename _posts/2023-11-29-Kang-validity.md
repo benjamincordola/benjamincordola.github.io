@@ -1,8 +1,8 @@
 ---
-title: "Independent Project Validity"
+title: "Kang Threats to Validity"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Analysis
 tags:
   - GIS
   - Science
