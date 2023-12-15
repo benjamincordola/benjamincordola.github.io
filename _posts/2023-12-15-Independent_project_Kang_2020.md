@@ -10,7 +10,7 @@ tags:
 
 ## Simplifying and optimizing Kang (2020) with GeoPandas
 
-Published in 2020, Kang et al. measured the spatial accesibilty of COVID-19 resources in Illinois. A workflow I made for my replication of their study is below.
+Published in 2020, [Kang et al.](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x)  measured the spatial accesibilty of COVID-19 resources in Illinois. A workflow I made for my replication of their study is below.
 
 ![workflow](/assets/images/workflow.jpg)
 
