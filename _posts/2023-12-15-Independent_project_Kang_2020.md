@@ -10,8 +10,9 @@ tags:
 
 ## Simplifying and optimizing Kang (2020) with GeoPandas
 
-Published in 2020, Kang et al. measured the spatial accesibilty of COVID-19 resources in Illinois. A workflow I made for my replication of their study is below,
-[workflow]!(assets\images\workflow.jpg)
+Published in 2020, Kang et al. measured the spatial accesibilty of COVID-19 resources in Illinois. A workflow I made for my replication of their study is below.
+
+[workflow]!(/assets/images/workflow.jpg)
 
 My contributions to the study:
 
@@ -24,6 +25,6 @@ My contributions to the study:
   Detailed comments in every function, describing data structures, methods, and reasoning.
   Removed of unneccessary codeblocks. 
 
-My pre-registration of my reanalysis can be found [here.](https://github.com/benjamincordola/RPr-Kang-2020/blob/main/docs/report/cordola-reanalysis-plan.md). 
+My pre-registration of my reanalysis can be found [here.](https://github.com/benjamincordola/RPr-Kang-2020/blob/main/docs/report/cordola-reanalysis-plan.md)
 
 Our updated paper can be found at this [GitHub Repository](https://github.com/benjamincordola/RPr-Kang-2020). You can view it as a [HTML Document](https://benjamincordola.github.io/RPr-Kang-2020/) here. 
