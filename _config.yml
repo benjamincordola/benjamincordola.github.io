@@ -14,14 +14,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: OpenGIS Blog
+title: Cordola Cartography
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A home for blog posts and project updates related to OpenGIS.
 twitter_username: bencordopolis
 github_username: benjamincordola
 minimal_mistakes_skin: sunrise
-search: true
+search: False
 
 # Build settings
 markdown: kramdown
@@ -61,21 +61,21 @@ author:
   avatar : "/assets/images/bio-photo.png"
   bio    : "I'm a student at Middlebury College in Vermont studying Geography, Russian, and Spanish."
   links:
-    - label: "Cartography Portfolio"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://bcordola.myportfolio.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bencordopolis"
+      url: "https://www.linkedin.com/in/cordola/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/bencordopolis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benjamincordola"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/bencordopolis"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/cordola/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/benjamincordola"
